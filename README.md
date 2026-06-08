@@ -1,28 +1,37 @@
-Hi, I'm Farre 👋
-.NET developer based in Malmö, Sweden. I build backend APIs and full-stack applications with C# and ASP.NET Core.
-I recently graduated from Newton Vocational College (.NET Systems Development) and have hands-on experience from a software developer role at Smart Source, where I worked on client projects involving REST APIs, CI/CD pipelines, and Umbraco.
+# Hi 👋 My name is Farre
 
-What I work with
-Languages: C#, JavaScript, SQL, HTML/CSS
-Backend: ASP.NET Core, REST APIs, Entity Framework
-Frontend: React, .NET MAUI, Blazor
-Data: MSSQL, Firebase/Firestore, SSMS
-Tools: Azure DevOps, Git, Docker, Postman, CI/CD
+### 👨🏻‍💻 About Me
 
-Featured projects
-🍔 Bundrop — Full-stack React app for a burger restaurant with menu management, cart, and order flow. Built with React, JSON Server, and React Router.
-🤟 MuteMate — Full-stack sign language learning app built with ASP.NET Core, Blazor, and SQL Server. Collaborative group project.
-<!-- ADD YOUR 2026 PROJECT(S) HERE — example: -->
-<!-- 🔧 **[ProjectName](https://github.com/farrezz/project)** — Brief description of what it does and the problem it solves. Built with X, Y, Z. -->
+I'm a software developer based in Malmö, Sweden 🇸🇪
 
-Currently
+- 🔭 I enjoy building things end to end — from the interface to the logic behind it
+- 📚 Always learning something new and picking up new tools along the way
+- 🤝 Open to interesting projects and collaboration
 
-🔭 Building personal projects to sharpen my full-stack skills
-🌱 Exploring cloud deployment and system design
-💼 Open to junior/mid .NET developer roles in Sweden
+### 🛠 Languages and tools
 
+[![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://react.dev)
+[![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
+[![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://learn.microsoft.com/dotnet/csharp/)
+[![dotnet](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)](https://dotnet.microsoft.com)
+[![git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com)
 
-Get in touch
-📧 farre.shafaie@gmail.com
-💼 LinkedIn
-📍 Malmö, Sweden
+### 💼 My Projects :
+
+**🔸 [bundrop](https://github.com/farrezz/bundrop)**
+A full-stack React app built around a burger menu ordering experience.
+*Learned:* building a full-stack React app, client-side routing with react-router-dom, and serving data with a json-server mock backend.
+
+**🔸 [MuteMate](https://github.com/farrezz/MuteMate)**
+A full-stack application for learning sign language.
+*Learned:* collaborating on a shared codebase and building a full-stack app from frontend to backend.
+
+**🔸 [TravelPal](https://github.com/farrezz/TravelPal)**
+A console application for planning and managing travel.
+*Learned:* C# fundamentals, object-oriented design, and structuring a console-based application.
+
+**🔸 [ValhallaVault](https://github.com/farrezz/ValhallaVault)**
+A collaborative C# project.
+*Learned:* working as part of a team and contributing to a shared repository.
