@@ -20,18 +20,18 @@ I'm a software developer based in Malmö, Sweden 🇸🇪
 
 ### 💼 My Projects :
 
-**🔸 [bundrop](https://github.com/farrezz/bundrop)**
-A full-stack React app built around a burger menu ordering experience.
-**Learned:** building a full-stack React app, client-side routing with react-router-dom, and serving data with a json-server mock backend.
+**🔸 [bundrop](https://github.com/farrezz/bundrop)**  
+A full-stack React app built around a burger menu ordering experience.  
+*Learned:* building a full-stack React app, client-side routing with react-router-dom, and serving data with a json-server mock backend.
 
-**🔸 [MuteMate](https://github.com/farrezz/MuteMate)**
-A full-stack application for learning sign language.
+**🔸 [MuteMate](https://github.com/farrezz/MuteMate)**  
+A full-stack application for learning sign language.  
 *Learned:* collaborating on a shared codebase and building a full-stack app from frontend to backend.
 
-**🔸 [TravelPal](https://github.com/farrezz/TravelPal)**
-A console application for planning and managing travel.
+**🔸 [TravelPal](https://github.com/farrezz/TravelPal)**  
+A console application for planning and managing travel.  
 *Learned:* C# fundamentals, object-oriented design, and structuring a console-based application.
 
-**🔸 [ValhallaVault](https://github.com/farrezz/ValhallaVault)**
-A collaborative C# project.
+**🔸 [ValhallaVault](https://github.com/farrezz/ValhallaVault)**  
+A collaborative C# project.  
 *Learned:* working as part of a team and contributing to a shared repository.
