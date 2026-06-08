@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a software developer based in Malmö, Sweden 🇸🇪
+I'm a junior software developer based in Malmö, Sweden 🇸🇪
 
 - 🔭 I enjoy building things end to end — from the interface to the logic behind it
 - 📚 Always learning something new and picking up new tools along the way
