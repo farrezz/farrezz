@@ -22,7 +22,7 @@ I'm a software developer based in Malmö, Sweden 🇸🇪
 
 **🔸 [bundrop](https://github.com/farrezz/bundrop)**
 A full-stack React app built around a burger menu ordering experience.
-*Learned:* building a full-stack React app, client-side routing with react-router-dom, and serving data with a json-server mock backend.
+**Learned:** building a full-stack React app, client-side routing with react-router-dom, and serving data with a json-server mock backend.
 
 **🔸 [MuteMate](https://github.com/farrezz/MuteMate)**
 A full-stack application for learning sign language.
